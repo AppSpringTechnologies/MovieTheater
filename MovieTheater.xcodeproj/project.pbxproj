@@ -22,14 +22,14 @@
 		2536EA6E15889D2B00AC1B13 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2536EA7015889D2B00AC1B13 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2536EA7215889D2B00AC1B13 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		2536EA7615889D2B00AC1B13 /* MovieTheater-Info.plist */ = {isa = PBXFileReference; path = "MovieTheater-Info.plist"; sourceTree = "<group>"; };
+		2536EA7615889D2B00AC1B13 /* MovieTheater-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MovieTheater-Info.plist"; sourceTree = "<group>"; };
 		2536EA7815889D2B00AC1B13 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2536EA7A15889D2B00AC1B13 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2536EA7C15889D2B00AC1B13 /* MovieTheater-Prefix.pch */ = {isa = PBXFileReference; path = "MovieTheater-Prefix.pch"; sourceTree = "<group>"; };
-		2536EA7D15889D2B00AC1B13 /* MovieTheaterAppDelegate.h */ = {isa = PBXFileReference; path = MovieTheaterAppDelegate.h; sourceTree = "<group>"; };
+		2536EA7C15889D2B00AC1B13 /* MovieTheater-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MovieTheater-Prefix.pch"; sourceTree = "<group>"; };
+		2536EA7D15889D2B00AC1B13 /* MovieTheaterAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MovieTheaterAppDelegate.h; sourceTree = "<group>"; };
 		2536EA7E15889D2B00AC1B13 /* MovieTheaterAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MovieTheaterAppDelegate.m; sourceTree = "<group>"; };
 		2536EA8115889D2B00AC1B13 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		2536EA8315889D2B00AC1B13 /* MovieTheaterViewController.h */ = {isa = PBXFileReference; path = MovieTheaterViewController.h; sourceTree = "<group>"; };
+		2536EA8315889D2B00AC1B13 /* MovieTheaterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MovieTheaterViewController.h; sourceTree = "<group>"; };
 		2536EA8415889D2B00AC1B13 /* MovieTheaterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MovieTheaterViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
